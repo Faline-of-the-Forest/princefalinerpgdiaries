@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-shots/list-of-knave-one-shots/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/one-shots/list-of-knave-one-shots/"}
 ---
 
 
