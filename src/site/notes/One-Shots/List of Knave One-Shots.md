@@ -18,12 +18,12 @@
 
 <br>
 
->[!caption left]
+>[!caption-left]
 >***Influences...*** 
 >**Scooby-Doo, Where Are You!** (1969, Hanna-Barbera, TV Series), **Scooby-Doo! and the Legend of the Vampire** (2003, Scott Jeralds, Film), **Scooby-Doo! Abracadabra-Doo** (2010, Spike Brandt & Tony Cervone, Film).
 
 
->[!caption right]
+>[!caption-right]
 >***Materials...***
 >[[Library/The D&D Shelf#**Ravenloft** (1983)\|Ravenloft]]
 
