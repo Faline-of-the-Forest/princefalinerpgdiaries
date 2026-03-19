@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/the-d-and-d-shelf/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/library/the-d-and-d-shelf/"}
 ---
 
 
