@@ -539,3 +539,12 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
   min-width: 180px;
   max-width: 220px;
 }
+
+/* Fix sidebar background not matching page */
+.left-sidebar,
+#left-sidebar,
+.sidebar-content {
+  background-color: var(--background-primary);
+  min-height: unset;
+  height: auto;
+}
