@@ -540,11 +540,16 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
   max-width: 220px;
 }
 
-/* Fix sidebar background not matching page */
-.left-sidebar,
-#left-sidebar,
-.sidebar-content {
+/* Fix sidebar black space */
+.filetree-wrapper {
   background-color: var(--background-primary);
   min-height: unset;
   height: auto;
+  align-self: flex-start;
+}
+
+.filetree-sidebar {
+  background-color: var(--background-primary);
+  height: auto;
+  min-height: unset;
 }
