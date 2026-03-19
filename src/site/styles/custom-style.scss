@@ -519,8 +519,23 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
   color: var(--text-normal);
 }
 
+/* Widen the overall page container */
+.grid-container,
+#grid-container {
+  max-width: 1600px;
+  width: 100%;
+}
+
+/* Shrink the right sidebar so it takes less space */
 .right-sidebar {
-  min-width: 160px;
-  width: 160px;
+  min-width: 150px;
+  max-width: 200px;
   font-size: 0.85em;
+}
+
+/* Shrink the left sidebar slightly too */
+.left-sidebar,
+#left-sidebar {
+  min-width: 180px;
+  max-width: 220px;
 }
