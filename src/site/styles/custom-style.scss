@@ -432,6 +432,39 @@ img[alt*=banner] {
   clear: both;
 }
 
+/* Float left for images with left in alt text */
+img[alt~=left],
+img[alt*="left"] {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+}
+
+/* Make sure the anchor wrapper doesn't block the float */
+a img[alt~=left],
+a img[alt*="left"] {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+a:has(img[alt~=left]),
+a:has(img[alt*="left"]) {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+/* Clear floats after paragraphs */
+.cm-content p::after,
+p::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
 img[alt~=banner]        { height: var(--small); }
 img[alt~="banner+small"]{ height: var(--tiny); }
 img[alt~="banner+tall"] { height: var(--medium); }
