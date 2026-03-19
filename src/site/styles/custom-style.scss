@@ -553,3 +553,23 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
   height: auto;
   min-height: unset;
 }
+
+/* Make caption left/right callouts sit side by side */
+.callout[data-callout*="caption"][data-callout*="left"],
+.callout[data-callout*="caption"][data-callout*="right"] {
+  float: left;
+  width: 48%;
+  margin: 0.25rem 1% 0.75rem 1%;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+/* Clear after a group of floated callouts */
+.callout[data-callout*="caption"][data-callout*="right"] + * {
+  clear: both;
+}
+
+/* Fallback clearfix on the note content wrapper */
+.markdown-rendered {
+  overflow: auto;
+}
