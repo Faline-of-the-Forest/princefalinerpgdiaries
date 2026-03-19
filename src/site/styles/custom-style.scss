@@ -505,3 +505,16 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
 .clear-heading-4 h4,
 .clear-heading-5 h5,
 .clear-heading-6 h6 { clear: both; }
+
+/* Sidebar background and text to match your theme */
+.sidebar,
+#sidebar,
+.filetree-sidebar {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+}
+
+.filetree-sidebar a,
+.sidebar a {
+  color: var(--text-normal);
+}
