@@ -27,6 +27,7 @@
 >***Materials...***
 >[[Library/The D&D Shelf#**Ravenloft** (1983)\|Ravenloft]]
 
+<div style="clear:both"></div>
 
 ***Featuring...***
 - #Tin-Man as *Lawrence* and *Azazel*
