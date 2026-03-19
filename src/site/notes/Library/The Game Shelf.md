@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/the-game-shelf/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/library/the-game-shelf/"}
 ---
 
 
