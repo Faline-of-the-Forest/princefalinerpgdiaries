@@ -6,9 +6,8 @@
 ![bnr_themall.jpg\|sban](/img/user/Images/Banners/bnr_themall.jpg)
 ![sys_liminalhorror.png\|hmicro left](/img/user/Images/Systems/sys_liminalhorror.png) 
 #Liminal-Horror 
-<br>
->[!center]
-> **A [[Systems/Liminal Horror\|Liminal Horror]] Campaign**
+
+<div style="clear:both"></div>
 
 ```co
 EVERYTHING MUST GO.
@@ -86,3 +85,11 @@ Desc
 ## **01.** This place sucks.
 ![cover_themall01.jpg\|left hsmall](/img/user/Images/Covers/cover_themall01.jpg)
 Desc
+
+
+<div style="clear:both"></div>
+---
+<div style="clear:both"></div>
+
+>[!center]
+> A [[Library/The Liminal Horror Shelf#**Liminal Horror** (2021)\|Liminal Horror]] Campaign
