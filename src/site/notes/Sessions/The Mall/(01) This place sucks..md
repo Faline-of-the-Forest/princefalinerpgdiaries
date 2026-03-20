@@ -52,6 +52,15 @@ With no way out, some of the group start looking for supplies and a safe place t
 
 They find Catpee and Rose, employees of Emmy's Swords and Stuff, in the middle of barricading themselves inside their weapons shop. The pair agree to let the group stay, but the clerks want to swing by the break room first to see what they can scavenge. On their way back, they're told the ceiling has collapsed and that a fruiting body from the vents has fallen into the weapons shop. It's releasing a cloud of spores, and as Gayle points out, even if they cleared the store out, breathing that air would be a bad idea. Rose counters: if it was in the vents, hasn't everyone already been breathing it? The group looks at each other. Yeah. That's pretty bad.
 
+<div style="clear:both"></div>
+
+---
+
+<div style="clear:both"></div>
+
+>[!caption]
+>![misc_themall_zeke.webp](/img/user/Images/Art/misc_themall_zeke.webp)
+>Zeke, the Sam Goody metalhead.
 
 <div style="clear:both"></div>
 
