@@ -33,11 +33,11 @@ And you are being DIGESTED.
 
 <br>
 
->[!caption left]
+>[!caption-left]
 ***Influences...*** 
 **The Thing** (1982, John Carpenter, Film), **The Fog** (1980, John Carpenter, Film), **The Mist** (2007, Frank Darabont, Film), **Mallrats** (1995, Kevin Smith, Film), **Clerks** (1994, Kevin Smith, Film), **Misao** (2012, Miscreant's Room, Video Game), **Sixteen Candles** (1984, John Hughes, Film).
 
->[!caption right]
+>[!caption-right]
 ***Materials...***
 The Mall.
 
