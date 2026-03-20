@@ -22,7 +22,7 @@ It is the summer of 1999, and the CARPENTER VALLEY MALL is dying. In a last, des
 ```
 
 ```co
-You, a CLERK of the CARPENTER VALLEY MALL, may believe you are being preyed upon. You may barricade the food court and ration what you you can, but you are not being hunted by a beast. You are already inside of it.
+You, a CLERK of the CARPENTER VALLEY MALL, may believe you are being preyed upon. You may barricade the food court and ration what you can, but you are not being hunted by a beast. You are already inside of it.
 ```
 
 ```co
