@@ -22,33 +22,35 @@
 ---
 # Summary
 
-## "I CAN FEEL THE HILLS EXPLODING"
+## **Chapter 1: August 1999, Carpenter Valley Mall**
 
-At first, it was the rim of light along the glass doors that sliced into their retinas. Then, this horrible languor in their bodies, coming up their throats, pushing out rough, wet coughs. They felt stiff, dazed. Void darkness claimed the rest of the room.
+Bruce, the mall's janitor and handyman, walks into the maintenance room with his dark blue coveralls lathered in marinara sauce from a teenager's Subway order. It was an "accident," the kid had grinned at him. He lacked the energy to put up a fight, and in fact, he was ready to finally give it all up: he poured himself a cocktail of bleach and drain cleaner into a paper cup, but before he could bring it to his lips, the blackout caught him off guard.
 
-Turning their heads to the side, their eyes detected the only other forms in the black. Each other: the man floated inside his cryopod, his thoughts sloshing hazily as though his skull were a vat of liquor, and the child hovered in her own tube, the door light haloing her features.
-## "JUST SWALLOW YOUR GUILT AND YOUR CONSCIENCE"
+When the lights came back on, there was a noise: meowing, from the vents. He unscrewed the cover and reached in, finding something almost like a cat, with strange bent limbs, pink skin and patchy fur, held together with a membranous grey. He lifted it carefully and gently, but the creature took the opportunity to leap at his face, pushing its body through his jaw and down his throat. Trying to pull it away, Bruce only managed to pull it apart, like melted cheese, and the part not lodged in his throat escaped by crawling under the door. Bruce reached for the cocktail he poured himself earlier, his fingers right about to wrap around it...
 
-As they made it out of the dark room, they exited to a corridor, where they realized that the weightless void extended beyond the airlock. *Cloudbanks*, the word surfaced in the man's mind, brittle. The United Corporate Authority—UCA, he remembered—they employed him for a mission here. He tried to recall the details, but he couldn't conjure them.
+## **Chapter 2: An Hour Earlier...**
 
-For the moment, with the child at his side as they pushed their way through the rooms of this metallic carcass, the man attempted to find clothes. They needed to throw something on their backs, *anything*... Even a meager layer of fabric would make him feel better. 
+The shops are closing up at Carpenter Valley Mall, and about 100 people are crowded in front of the stage, where an Oldsmobile is parked for the raffle.
 
-## "GRASS IS GREEN AT THE EDGE OF THE BUBBLE"
+The "Save the Mall" banner reminds everyone that this event was meant to raise funds for Carpenter Valley Mall, and the headcount confirms that the people of Carpenter really couldn't care less if the shopping center closed.
 
-Making their way through dark rooms, they met with an artificial intelligence: his name was Silas, a disembodied voice that directed them to a locker room, where a few functional vaccsuits were being kept.
+## **Chapter 3: Are You Okay, Bro?**
 
-It's as they covered themselves that they started remembering their names: the man was Elo Silversten, he remembered a miserable job he hated: a dead-end thing that capped a decade of being told he was a "promising talent" and "prodigy", and yet, like everyone else, this so-called potential only landed him a job as a security consultant. As for the girl, she wasn't so blessed with recollection. She only remembered being Sue. 
-## "BEAUTIFUL KIDS IN BEAUTIFUL TROUBLE"
+Having closed up the Orange Julius, Newt joined the crowd at the stage to hear Mr. Neil, the mall manager, speak. 
 
-Cloudbanks was a derelict android factory, Elo remembered, and he was hired to take the rogue A.I. that had taken over. The factory, he saw as he made his way through it, was in poor shape, and the sharp debris floating around quickly ruined their brand new vaccsuits. 
+During the speech, the crowd noticed Bruce, the maintenance man, approaching the stage with a limp and a cough. He cut through the crowd and people stood back, forming a circle around him. Matteo, of the Your Body Is a Temple Wellness Clinic, was the only good Samaritan: he knelt beside him and asked if he needed help. A moment later, Bruce's chest burst open, launching a gelatinous mass into Matteo's face. Matteo fell backwards as the thing cut through his skin and moved beneath it, across his skull, before slipping deeper inside.
 
-It took hours of walking before they met their first inhabitant of the Deep: a security android, which launched itself off the corridor walls towards them as soon as they came into its vision. It focused on Elo, trying to latch onto him. The hacker made it through the airlock, and with the android's hand grabbed to his ankle, the door suddenly closed and cut the security android at the waist. Its hand released Elo, and both Sue and he recoiled away from the shut door.
+## **Chapter 4: The Doors Close at 8**
 
-## "THEY ALL SEEM TO FALL OUT OF THE SKY AND COME DOWN ON YOU"
+The crowd panics. Beth, the mall rat, calls for everyone to get out, and Maggie, owner of several stores in the mall, quickly grabs a sign pole and smashes Matteo's head: the creature inside breaks apart and scatters in a dozen directions. Griffith, owner of the YBIAT wellness clinic, is the only one to stay behind, grieving over his decapitated employee.
 
-They had been saved: it was an artificial intelligence, introducing himself as Monarch. He used to be this factory's overseer. He explained that a few months back, some Divers had seized the factory floor and  turned his security androids against him.
+Everyone else makes it to the doors, but nobody can leave: an orange, pulsating wall of flesh blocks the exit. Maggie, seemingly still bloodthirsty, tries to pressure a young man into testing the barrier, but Gayle, the mall security, stops her. A few of the mall clerks, along with Beth, and including Newt, and Zeke and Casper of Sam Goody and Waldenbooks, head up to check the roof, hoping they can get out from above. When they get there, the way is blocked too. Beth tries to force an exit and is nearly swallowed by the wall of flesh; thankfully, Gayle pulls her back just in time.
 
-Monarch told them that he didn't know who they were, or where they came from. A system-wide reboot had occurred twenty years prior, erasing all pre-existing logs and intelligences. When the reset happened, the two humans were already in their cryopods. 
+## **Chapter 5: Catpee & Rose**
+
+With no way out, some of the group start looking for supplies and a safe place to hole up. Gayle leads a few of the clerks toward the security room, but a regular, an old man in a Hawaiian shirt named William, has already broken in and barricaded himself inside. He refuses to let anyone in, so the group moves on.
+
+They find Catpee and Rose, employees of Emmy's Swords and Stuff, in the middle of barricading themselves inside their weapons shop. The pair agree to let the group stay, but the clerks want to swing by the break room first to see what they can scavenge. On their way back, they're told the ceiling has collapsed and that a fruiting body from the vents has fallen into the weapons shop. It's releasing a cloud of spores, and as Gayle points out, even if they cleared the store out, breathing that air would be a bad idea. Rose counters: if it was in the vents, hasn't everyone already been breathing it? The group looks at each other. Yeah. That's pretty bad.
 
 >[!center]
 > ***Episode 01*** of [[Campaigns/The Mall\|The Mall]]
