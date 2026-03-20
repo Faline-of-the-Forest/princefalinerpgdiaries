@@ -16,3 +16,6 @@
 >**Review**:
  Ravenloft is a classic with a lot of charm. The traps and illusions of the castle makes this feel at times like a Scooby-Doo episode, but Strahd is easily one of the best TTRPG villains to play with, and likely the best that ever came out of Dungeons & Dragons. The adventure definitely needs some trimming in order to be enjoyed at its best, but it is absolutely worth playing still decades later.
 >★★★★
+
+**Used in...**
+- [[One-Shots/List of Knave One-Shots#**The Haunting of Castle Ravenloft**\|The Haunting of Castle Ravenloft]]
