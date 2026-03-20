@@ -5,8 +5,13 @@
 
 ![bnr_themall.jpg\|sban](/img/user/Images/Banners/bnr_themall.jpg)
 ![sys_liminalhorror.png\|hmicro left](/img/user/Images/Systems/sys_liminalhorror.png) 
-#Liminal-Horror 
+
 <div style="clear:both"></div>
+
+#Liminal-Horror 
+
+<div style="clear:both"></div>
+
 
 ```co
 EVERYTHING MUST GO.
