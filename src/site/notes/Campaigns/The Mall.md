@@ -48,7 +48,6 @@ And you are being DIGESTED.
 ![por_unk.png\|left hsmall](/img/user/Images/Portraits/por_unk.png)
 **Gayle**, Mall Cop / Flower Child
 *(portrayed by* #Captain-Hook *)*
-
 Gayle worked at Carpenter Valley Mall when it was still alive. She knows every face and name of the mall's dwindling regulars, and she's always itching for an excuse to chat: in many ways, Gayle is a living relic of the flower-power era. 
 
 She treats the mall as a kind of village square, patrolling it more like a school monitor. She's especially chatty about cars — she could go on about them for a literal eternity. She also carries a concealed .38 nobody knows about. She's not supposed to have it, but a bad encounter late at night, a year back, made her reconsider her stance on self-defense.
