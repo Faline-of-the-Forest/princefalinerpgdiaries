@@ -575,7 +575,7 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
 }
 
 .content {
-  max-width: 860px !important;
+  max-width: 650px !important;
   margin-left: calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap) + 20px) !important;
   margin-right: auto !important;
 }
