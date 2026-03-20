@@ -602,3 +602,20 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
     display: block !important;
   }
 }
+
+@media (max-width: 1400px) {
+  .sidebar {
+    position: static !important;
+    left: unset !important;
+    right: unset !important;
+    top: unset !important;
+    transform: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 200px !important;
+    min-width: 150px !important;
+    height: auto !important;
+    border-top: none !important;
+    padding: 0 !important;
+  }
+}
