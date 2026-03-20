@@ -574,67 +574,54 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
   overflow: auto;
 }
 
-/* Force right sidebar to always show at all screen sizes */
-.sidebar {
-  display: block !important;
-  min-width: 150px;
-  max-width: 220px;
-}
-
-.sidebar-container {
-  display: block !important;
-}
-
-@media (max-width: 1200px) {
-  .sidebar {
-    display: block !important;
-  }
-}
-
-@media (max-width: 900px) {
-  .sidebar {
-    display: block !important;
-  }
-}
-
-@media (max-width: 768px) {
-  .sidebar {
-    display: block !important;
-  }
-}
-
+/* Keep sidebar fixed beside content at all screen widths */
 @media (max-width: 1400px) {
   .sidebar {
-    position: static !important;
-    left: unset !important;
-    right: unset !important;
-    top: unset !important;
-    transform: none !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    max-width: 200px !important;
-    min-width: 150px !important;
-    height: auto !important;
-    border-top: none !important;
+    position: fixed !important;
+    left: calc(
+      max(
+        calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap)),
+        min(
+          calc((100vw - var(--dg-content-max-width)) / 2),
+          calc(100vw - var(--dg-content-max-width) - var(--dg-sidebar-max-width) - var(--dg-sidebar-gap) - 20px)
+        )
+      ) + var(--dg-content-max-width) + var(--dg-sidebar-gap)
+    ) !important;
+    top: var(--dg-sidebar-top) !important;
+    right: auto !important;
+    margin: 0 !important;
     padding: 0 !important;
+    max-width: var(--dg-sidebar-max-width) !important;
+    height: 100% !important;
+    border-top: none !important;
+  }
+
+  .sidebar-container {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px !important;
+    height: var(--dg-sidebar-container-height) !important;
+  }
+
+  .toc {
+    display: block !important;
   }
 }
 
-/* Force three-column layout at all screen sizes */
-body > div[x-data] {
-  display: grid !important;
-  grid-template-columns: 250px 1fr 220px !important;
-}
-
-body > div[x-data] > aside {
-  display: block !important;
-  grid-column: 3 !important;
-}
-
-body > div[x-data] > main {
-  grid-column: 2 !important;
-}
-
-.filetree-wrapper {
-  grid-column: 1 !important;
+@media (max-width: 1000px) {
+  .sidebar {
+    position: fixed !important;
+    left: calc(
+      max(
+        calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap)),
+        min(
+          calc((100vw - var(--dg-content-max-width)) / 2),
+          calc(100vw - var(--dg-content-max-width) - var(--dg-sidebar-max-width) - var(--dg-sidebar-gap) - 20px)
+        )
+      ) + var(--dg-content-max-width) + var(--dg-sidebar-gap)
+    ) !important;
+    top: var(--dg-sidebar-top) !important;
+    margin: 0 !important;
+    max-width: var(--dg-sidebar-max-width) !important;
+  }
 }
