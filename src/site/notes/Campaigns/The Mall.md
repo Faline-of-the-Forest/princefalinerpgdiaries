@@ -57,7 +57,6 @@ She treats the mall as a kind of village square, patrolling it more like a schoo
 ![por_unk.png\|left hsmall](/img/user/Images/Portraits/por_unk.png)
 **Casper**, Waldenbooks / Witch
 *(portrayed by* #Mr-Tumnus *)*
-
 Casper only works at the mall because it's the shortest walk to the graveyard. He  tends to keep to himself, and his lack of friendships is mostly a preference. While he's not much of a talker, he is a hell of a listener, with a gift for catching every stray word spoken in the mall. 
 
 Casper could hear gossip whispered two floors up. He has something like an encyclopedia of knowledge about the people of Carpenter, though it's worth noting he just heard it — none of it is verified. His most meaningful conversations happen with the unliving, and that's where he feels least alone.
@@ -66,7 +65,6 @@ Casper could hear gossip whispered two floors up. He has something like an encyc
 
 ![por_unk.png\|left hsmall](/img/user/Images/Portraits/por_unk.png)
 **Zeke**, Sam Goody / Metalhead
-
 *(portrayed by* #Tin-Man *)*
 Zeke has single-handedly killed any bad reputation metalheads could have in Carpenter. He has the heart of a good Christian boy wrapped in long hair, washed-out band shirts, and piercings: he grew up in a churchgoing family and some of that stuck.
 
@@ -78,7 +76,6 @@ He works Sam Goody with genuine enthusiasm; he knows what he's talking about and
 
 ![por_unk.png\|left hsmall](/img/user/Images/Portraits/por_unk.png)
 **Newt**, Orange Julius / Slacker
-
 *(portrayed by* #Mad-Hatter *)*
 Newt comes from money, has nothing to show for it, and prefers it that way. His expensive bad habits (rum) are pretty much his only inheritance from his rich parents. He took the Orange Julius gig out of necessity: he is a slacker who enjoys how directionless his life is. 
 
