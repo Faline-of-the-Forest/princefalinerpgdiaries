@@ -576,6 +576,6 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
 
 .content {
   max-width: 860px !important;
-  margin-left: auto !important;
+  margin-left: calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap) + 20px) !important;
   margin-right: auto !important;
 }
