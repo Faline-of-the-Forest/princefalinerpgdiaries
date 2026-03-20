@@ -15,6 +15,9 @@
 As a hack of an OSR system, Liminal Horror inherits mechanics that don't quite fit modern horror. The book is also too sparse to run from alone: little to no original illustrations, lore, or material to pull from. What's left is a repurposed chassis with nothing built on top of it.
 >★★½
 
+**Used in...**
+- [[Campaigns/The Mall\|The Mall]]
+
 <div style="clear:both"></div>
 
 ---
