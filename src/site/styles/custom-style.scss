@@ -574,13 +574,31 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
   overflow: auto;
 }
 
-/* Force right sidebar to always show */
-.toc-aside,
-.right-sidebar-container,
-aside {
+/* Force right sidebar to always show at all screen sizes */
+.sidebar {
+  display: block !important;
+  min-width: 150px;
+  max-width: 220px;
+}
+
+.sidebar-container {
   display: block !important;
 }
 
-.backlinks {
-  display: block !important;
+@media (max-width: 1200px) {
+  .sidebar {
+    display: block !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .sidebar {
+    display: block !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    display: block !important;
+  }
 }
