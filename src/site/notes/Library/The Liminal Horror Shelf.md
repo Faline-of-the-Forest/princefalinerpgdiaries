@@ -36,4 +36,7 @@ As a hack of an OSR system, Liminal Horror inherits mechanics that don't quite f
 
 >**Review**:
 The Mall offers a decent location and not much else. Too much of the book seems to ask the GM to "figure it out", putting the onus of making the antagonist interesting, coming up with a satisfying ending, and spicing up the game once it drags on their shoulders.
->★★½
+>★★★
+
+**Used in...**
+- [[Campaigns/The Mall\|The Mall]]
