@@ -29,7 +29,12 @@ While none of the premises hooked me particularly, the sum of its parts is great
 An incredibly engaging sci-fi horror megadungeon packed into just 60 pages. Monarch presents a thrilling antagonist to both play and face off against, and the book is brimming with opportunities to explore and interact with the massive facility. However, while its minimalist design makes it lighter to use at the table, it places significant pressure on the moderator to detail the sprawling factory rooms, sometimes with only a line or two of flavor to go off of.
 >★★★★
 
+<div style="clear:both"></div>
+
 ---
+
+<div style="clear:both"></div>
+
 # Third-Party Material
 ### **HUNDREDS** (2024)
 ![book_mothership-hundreds.png\|left hsmall](/img/user/Images/Books/book_mothership-hundreds.png)
