@@ -625,3 +625,15 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
     max-width: var(--dg-sidebar-max-width) !important;
   }
 }
+
+@media (max-width: 1400px) {
+  .content {
+    margin-right: calc(var(--dg-sidebar-max-width) + var(--dg-sidebar-gap)) !important;
+  }
+}
+
+@media (max-width: 1000px) {
+  .content {
+    margin-right: calc(var(--dg-sidebar-max-width) + var(--dg-sidebar-gap)) !important;
+  }
+}
