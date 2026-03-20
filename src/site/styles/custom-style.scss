@@ -573,3 +573,9 @@ img[alt*=flip-vertical-horizontal] { transform: scale(-1, -1); }
 .markdown-rendered {
   overflow: auto;
 }
+
+.content {
+  max-width: 860px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
