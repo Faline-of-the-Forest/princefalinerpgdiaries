@@ -17,6 +17,10 @@ This archive is my attempt to give those stories a more permanent home. It chron
 # Ongoing Campaigns
 
 > [!caption]
+> ![bnr_yazebabnb.jpg\|500](/img/user/Images/Banners/bnr_yazebabnb.jpg)
+> [[Campaigns/Yazeba's Bed & Breakfast\|Yazeba's Bed & Breakfast]]
+
+> [!caption]
 > ![bnr_themall.jpg\|500](/img/user/Images/Banners/bnr_themall.jpg)
 > [[Campaigns/The Mall\|The Mall]]
 
