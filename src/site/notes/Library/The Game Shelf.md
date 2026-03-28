@@ -21,7 +21,7 @@
 ![book_yazeba.png\|left hsmall](/img/user/Images/Books/book_yazeba.png)
 **Author:** Possum Creek Games
 **Pages**: 504
-**Description**: A slice-of-life **roleplaying game** about the residents and guests of Yazeba's Bed & Breakfast, as they spend time together on lazy afternoons, frightful nights, and getting up to all sorts of zany antics.
+**Description**: A slice-of-life **roleplaying game** about the residents and guests of Yazeba's Bed & Breakfast, as they spend time together on lazy afternoons, frightful nights, and get up to all sorts of zany antics.
 
 <div style="clear:both"></div>
 
