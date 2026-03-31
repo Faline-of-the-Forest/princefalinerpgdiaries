@@ -4,7 +4,6 @@
 
 
 ![bnr_yazebabnb.jpg](/img/user/Images/Banners/bnr_yazebabnb.jpg)
-![sys_yazeba.png\|hmicro left](/img/user/Images/Systems/sys_yazeba.png) 
 
 <div style="clear:both"></div>
 
