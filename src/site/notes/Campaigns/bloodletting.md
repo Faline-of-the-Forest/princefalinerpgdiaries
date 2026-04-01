@@ -44,11 +44,11 @@ You are KINDRED — familiar or new to the Big Sleep — and you have arrived at
 
 >[!caption-left] 
 _**Influences...**
-_ **Bloodletting** (1990, Concrete Blonde, Album), **Succession** (2018, Jesse Armstrong, TV Series), **Interview with the Vampire** (2022, Rolin Jones, TV Series), **Blade Runner** (1982, Ridley Scott, Film), **Mulholland Drive** (2001, David Lynch, Film).
+**Bloodletting** (1990, Concrete Blonde, Album), **Succession** (2018, Jesse Armstrong, TV Series), **Interview with the Vampire** (2022, Rolin Jones, TV Series), **Blade Runner** (1982, Ridley Scott, Film), **Mulholland Drive** (2001, David Lynch, Film)._
 
 >[!caption-right]
 ***Materials...***
-[[Library/The Chronicles of Darkness Shelf#**Vampire The Requiem** (2004)\|Vampire: The Requiem]], [[Library/The Chronicles of Darkness Shelf#**City of the Damned New Orleans** (2005)\|City of the Damned: New Orleans]]
+_[[Library/The Chronicles of Darkness Shelf#**Vampire The Requiem** (2004)\|Vampire: The Requiem]], [[Library/The Chronicles of Darkness Shelf#**City of the Damned New Orleans** (2005)\|City of the Damned: New Orleans]]_
 
 
 <div style="clear:both"></div>
