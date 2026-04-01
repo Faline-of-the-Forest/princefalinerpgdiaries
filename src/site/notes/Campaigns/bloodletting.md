@@ -48,7 +48,7 @@ _ **Bloodletting** (1990, Concrete Blonde, Album), **Succession** (2018, Jesse A
 
 >[!caption-right]
 ***Materials...***
-[[Library/The Liminal Horror Shelf#**The Mall (Remastered)** (2024)\|The Mall]].
+[[Library/The Chronicles of Darkness Shelf#**Vampire The Requiem** (2004)\|Vampire: The Requiem]], [[Library/The Chronicles of Darkness Shelf#**City of the Damned New Orleans** (2005)\|City of the Damned: New Orleans]]
 
 
 <div style="clear:both"></div>
