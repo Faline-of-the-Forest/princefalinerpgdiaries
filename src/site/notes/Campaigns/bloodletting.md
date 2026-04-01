@@ -25,7 +25,7 @@ But the Big Easy won't let him go quietly.
 ```
 
 ```co
-ANTOINE SAVOY, Lord of the French Quarter, is campaigning for the throne — and he alone is keeping the old Prince from slipping into torpor. In the bayou parishes, BARON CIMITIÈRE moves in silence, working toward something no one can name, and the Prince is afraid.
+ANTOINE SAVOY, Lord of the French Quarter, is campaigning for the throne — and he alone is keeping the old Prince from slipping into torpor. In the bayou parishes, BARON CIMITIERE moves in silence, working toward something no one can name, and the Prince is afraid.
 ```
 
 ```co
