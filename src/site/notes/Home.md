@@ -17,6 +17,10 @@ This archive is my attempt to give those stories a more permanent home. It chron
 # Ongoing Campaigns
 
 > [!caption]
+> ![bnr_bloodletting.jpg\|500](/img/user/Images/Banners/bnr_bloodletting.jpg)
+> [[Campaigns/bloodletting\|bloodletting]]
+
+> [!caption]
 > ![bnr_yazebabnb.jpg\|500](/img/user/Images/Banners/bnr_yazebabnb.jpg)
 > [[Campaigns/Yazeba's Bed & Breakfast\|Yazeba's Bed & Breakfast]]
 
