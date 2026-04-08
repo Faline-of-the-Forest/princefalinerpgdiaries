@@ -42,4 +42,4 @@ But Parish has one last trick: buried in the back, he unearths a stash of cereal
 <div style="clear:both"></div>
 
 >[!center]
-> ***Episode 01*** of [[Campaigns/Yazeba's Bed & Breakfast\|Yazeba's Bed & Breakfast]]
+> ***Episode 02*** of [[Campaigns/Yazeba's Bed & Breakfast\|Yazeba's Bed & Breakfast]]
