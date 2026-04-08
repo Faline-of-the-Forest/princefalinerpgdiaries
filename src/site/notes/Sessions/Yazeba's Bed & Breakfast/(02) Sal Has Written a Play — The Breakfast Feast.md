@@ -10,7 +10,7 @@
 <br>
 
 >[!caption]
->**2026-04-01**
+>**April 1st 2026**
 3 hours 57 minutes
 [♫ PLANET RACETRACK 2, Will Wiesenfeld ♫](https://youtu.be/T3ZuJms0AA8?list=RDT3ZuJms0AA8)
 # Cast
