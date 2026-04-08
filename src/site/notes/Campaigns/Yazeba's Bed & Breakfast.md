@@ -50,8 +50,8 @@ A masked teenage runaway looking for a home.
 <div style="clear:both"></div>
 
 ![por_ybbheykid.png\|left hsmall](/img/user/Images/Portraits/por_ybbheykid.png)
-**Hey Kid**
-*(portrayed by* #Mr-Tumnus *)*
+**Hey Kid** (AKA Bernard)
+*(portrayed by* #Mr-Tumnus , #Captain-Hook *)*
 A demon with a lot of energy and not a lot of sense just trying to have fun before their coming of age.
 
 <div style="clear:both"></div>
@@ -70,9 +70,16 @@ A witch, the owner of the Bed & Breakfast, who can be quite nasty despite her ho
 
 <div style="clear:both"></div>
 
+![por_ybbsal.png\|left hsmall](/img/user/Images/Portraits/por_ybbsal.png)
+**Sal**
+*(portrayed by* #Faline *)*
+An aspiring musician still looking for his niche.
+
+<div style="clear:both"></div>
+
 ![por_ybbamelie.png\|left hsmall](/img/user/Images/Portraits/por_ybbamelie.png)
 **Amelie**
-*(portrayed by* #Tin-Man *)*
+*(portrayed by* #Tin-Man, #Mr-Tumnus *)*
 A workaholic robotic housekeeper trying to make sense of their programming.
 
 <div style="clear:both"></div>
@@ -94,7 +101,7 @@ A bitter, fangless vampire aristocrat who enjoys reminding everyone of the good 
 <div style="clear:both"></div>
 
 ![por_ybbrabbits.png\|left hsmall](/img/user/Images/Portraits/por_ybbrabbits.png)
-**The Rabbits In the Garden, Who Wear Little Outfits**
+**The Rabbits In the Garden, Who Wear Little Outfits** (AKA The Rabbits in the Garden, Who Wear Little Pajamas)
 *(portrayed by* #Faline *)*
 A warren of taking bunnies that often bicker and argue amongst themselves
 
@@ -107,16 +114,53 @@ A particularly unpleasant skeleton with a knack for evil schemes and flimsy disg
 
 <div style="clear:both"></div>
 
+![por_ybbbud.png\|left hsmall](/img/user/Images/Portraits/por_ybbbud.png)
+**Bud Woodruff**
+*(portrayed by* #Tin-Man *)*
+An alraune bro with a heart of gold
+
+<div style="clear:both"></div>
+
+![por_ybbpercy.png\|left hsmall](/img/user/Images/Portraits/por_ybbpercy.png)
+**Percival "Percy" Combustion**
+*(portrayed by* #Captain-Hook *)*
+An enormous, apologetic lava elemental who always dreamed to be a baker.
+
+<div style="clear:both"></div>
+
+![por_ybbyola.png\|left hsmall](/img/user/Images/Portraits/por_ybbyola.png)
+**Yola Oleander**
+*(portrayed by* #Tin-Man *)*
+A very old shrub spirit who like to spill the tea.
+
+<div style="clear:both"></div>
+
+![por_ybbghoulgang.png\|left hsmall](/img/user/Images/Portraits/por_ybbghoulgang.png)
+**The Ghoul Gang** (Jax, Liz & Roy)
+*(portrayed by* #Mr-Tumnus *)*
+A clique of undead teenagers who enjoy to jeer, mock, joke and banter.
+
+<div style="clear:both"></div>
+
 # Episodes
 
 | Session Date   | Episode                    | Runtime   |
 | -------------- | -------------------------- | --------- |
 | ``2026-03-24`` | [[Sessions/Yazeba's Bed & Breakfast/(01) Another Rainy Day — The Witch's Missing Shadow\|(01) Another Rainy Day — The Witch's Missing Shadow]] | ``04:20`` |
+| ``2026-04-06`` | [[Sessions/Yazeba's Bed & Breakfast/(02) Sal Has Written a Play — The Breakfast Feast\|(02) Sal Has Written a Play — The Breakfast Feast]] | ``03:57`` |
 
 ---
 ## **01.** Another Rainy Day / The Witch's Missing Shadow
 ![cover_yazeba01.jpg\|left hsmall](/img/user/Images/Covers/cover_yazeba01.jpg)
 Hey Kid is very bored while stuck inside, and Gertrude tries to keep the child from exploding / Amelie must recapture Yazeba's shadow before it smashes the whole house.
+
+
+<div style="clear:both"></div>
+
+---
+## **02.** Sal Has Written a Play / The Breakfast Feast
+![cover_yazeba02.jpg\|left hsmall](/img/user/Images/Covers/cover_yazeba02.jpg)
+The Bed & Breakfast puts on a stage production penned by Sal / Parish and Hey Kid surprise the Bed & Breakfast with an early morning banquet.
 
 
 <div style="clear:both"></div>
