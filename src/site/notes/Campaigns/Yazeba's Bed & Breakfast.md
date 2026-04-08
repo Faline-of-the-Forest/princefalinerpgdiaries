@@ -117,7 +117,7 @@ A particularly unpleasant skeleton with a knack for evil schemes and flimsy disg
 ![por_ybbbud.png\|left hsmall](/img/user/Images/Portraits/por_ybbbud.png)
 **Bud Woodruff**
 *(portrayed by* #Tin-Man *)*
-An alraune bro with a heart of gold
+An alraune bro with a heart of gold.
 
 <div style="clear:both"></div>
 
