@@ -99,11 +99,20 @@ She is currently housing her latest stray, a nineteen-year-old werewolf named Ca
 | Session Date   | Episode                                  | Runtime   |
 | -------------- | ---------------------------------------- | --------- |
 | ``2026-03-30`` | [[Sessions/bloodletting/(01) Bloodletting (The Vampire Song)\|(01) Bloodletting (The Vampire Song)]] | ``04:47`` |
+| ``2026-04-06`` | [[Sessions/bloodletting/(02) The Sky is a Poisonous Garden\|(02) The Sky is a Poisonous Garden]]   | ``04:07`` |
 
 ---
 ## **01.** Bloodletting (The Vampire Song)
 ![cover_bloodletting01.jpg\|left hsmall](/img/user/Images/Covers/cover_bloodletting01.jpg)
 Carnival season opens in New Orleans: a Nosferatu musician risks everything to see the woman he loved, a charitable Ventrue is offered a deal by the Lord of the French Quarter, Daeva vodouisant bargains over secrets buried in her grandmother's notes, and a soldier is given a quiet job by the Prince.
+
+<div style="clear:both"></div>
+
+---
+
+## **02.** The Sky is a Poisonous Garden
+![cover_bloodletting02.jpg\|left hsmall](/img/user/Images/Covers/cover_bloodletting02.jpg)
+Andrew follows the Prince's orders into the French Quarter and finds reasons to doubt them, Wendy wakes hungry and unknowing in Reggie's home, Amélie is led blindfolded to Baron Cimitiere's hounfour and trades one secret for another, and Elvys reaches for a woman who no longer exists.
 
 <div style="clear:both"></div>
 
