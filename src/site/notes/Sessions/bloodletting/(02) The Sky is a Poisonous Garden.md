@@ -69,7 +69,7 @@ Amélie had barely returned from Cimitiere's hounfour when she heard the front b
 
 She kept apologizing, but Amélie needed to know what had happened. A handoff gone wrong, she said. She had been shot, she had transformed, but then one of the others, she said, it was one of them. A vampire. She watched him take a bullet and stand up like it was nothing. He had seen her, and now she was certain he was coming for her.
 
-Amélie told her to go upstairs and stayed at the landing, eyes fixed on the front door below. She hoped Caroline had not been followed. If she had, she had no idea what she was going to do.
+Amélie told her to go in the basement and stayed at the landing, eyes fixed on the front door below. She hoped Caroline had not been followed. If she had, she had no idea what she was going to do.
 
 <div style="clear:both"></div>
 
