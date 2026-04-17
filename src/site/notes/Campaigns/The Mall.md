@@ -89,14 +89,23 @@ The irony, however, is that boredom became productivity: what Newt does to kill 
 
 # Episodes
 
-| Session Date   | Episode                    | Runtime   |
-| -------------- | -------------------------- | --------- |
-| ``2026-03-18`` | [[Sessions/The Mall/(01) This place sucks.\|(01) This place sucks.]] | ``05:13`` |
+| Session Date   | Episode                        | Runtime   |
+| -------------- | ------------------------------ | --------- |
+| ``2026-03-18`` | [[Sessions/The Mall/(01) This place sucks.\|(01) This place sucks.]]     | ``05:13`` |
+| ``2026-04-08`` | [[Sessions/The Mall/(02) People are the worst.\|(02) People are the worst.]] | ``04:13`` |
 
 ---
 ## **01.** This place sucks.
 ![cover_themall01.jpg\|left hsmall](/img/user/Images/Covers/cover_themall01.jpg)
 A last-ditch raffle to save a dying mall turns into a nightmare when a parasitic creature tears its way out of the janitor and into the crowd. When the survivors try to flee, they find the exits sealed by walls of living flesh. Carpenter Valley Mall has been starving for years. Tonight, it eats.
+
+
+<div style="clear:both"></div>
+
+---
+## **02.** People are the worst.
+![cover_themall02.jpg\|left hsmall](/img/user/Images/Covers/cover_themall02.jpg)
+Tensions reach a breaking point when Maggie uses a teenager to test the barrier, fracturing the survivors into factions. The group is forced underground after a creature in the pet store tears through the crowd, and Casper and Gayle follow a trail of mud into the mines beneath the mall.
 
 
 <div style="clear:both"></div>
