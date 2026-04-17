@@ -4,8 +4,8 @@
 
 
 ![bnr_themall.jpg](/img/user/Images/Banners/bnr_themall.jpg)
-![title_themall01.png\|sban](/img/user/Images/Titles/title_themall01.png)
-![cover_themall01.jpg\|hs-med center](/img/user/Images/Covers/cover_themall01.jpg)
+![title_themall02.png\|sban](/img/user/Images/Titles/title_themall02.png)
+![cover_themall02.jpg\|hs-med center](/img/user/Images/Covers/cover_themall02.jpg)
 
 <br>
 
@@ -85,6 +85,5 @@ Not long after, they realized smoke began seeping into the vents, pushing them o
 <div style="clear:both"></div>
 
 
-
 >[!center]
-> ***Episode 01*** of [[Campaigns/The Mall\|The Mall]]
+> ***Episode 02*** of [[Campaigns/The Mall\|The Mall]]
