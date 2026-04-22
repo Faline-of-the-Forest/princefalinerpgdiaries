@@ -93,6 +93,7 @@ The irony, however, is that boredom became productivity: what Newt does to kill 
 | -------------- | ------------------------------ | --------- |
 | ``2026-03-18`` | [[Sessions/The Mall/(01) This place sucks.\|(01) This place sucks.]]     | ``05:13`` |
 | ``2026-04-08`` | [[Sessions/The Mall/(02) People are the worst.\|(02) People are the worst.]] | ``04:13`` |
+| ``2026-04-15`` | [[Sessions/The Mall/(03) I'm out of here.\|(03) I'm out of here.]]      | ``04:15`` |
 
 ---
 ## **01.** This place sucks.
@@ -106,6 +107,14 @@ A last-ditch raffle to save a dying mall turns into a nightmare when a parasitic
 ## **02.** People are the worst.
 ![cover_themall02.jpg\|left hsmall](/img/user/Images/Covers/cover_themall02.jpg)
 Tensions reach a breaking point when Maggie uses a teenager to test the barrier, fracturing the survivors into factions. The group is forced underground after a creature in the pet store tears through the crowd, and Casper and Gayle follow a trail of mud into the mines beneath the mall.
+
+
+<div style="clear:both"></div>
+
+---
+## **03.** I'm out of here.
+![cover_themall03.jpg\|left hsmall](/img/user/Images/Covers/cover_themall03.jpg)
+The mall is heating up, and Maggie tightens her grip on the second floor. In the mines, Gayle and Casper find a room that shouldn't exist and a door that leads somewhere it shouldn't. Zeke and Newt run out of moves, stuck between a crazy lady and a feral dogs-monster.
 
 
 <div style="clear:both"></div>
