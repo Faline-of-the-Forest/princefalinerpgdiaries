@@ -100,6 +100,7 @@ She is currently housing her latest stray, a nineteen-year-old werewolf named Ca
 | -------------- | ---------------------------------------- | --------- |
 | ``2026-03-30`` | [[Sessions/bloodletting/(01) Bloodletting (The Vampire Song)\|(01) Bloodletting (The Vampire Song)]] | ``04:47`` |
 | ``2026-04-06`` | [[Sessions/bloodletting/(02) The Sky is a Poisonous Garden\|(02) The Sky is a Poisonous Garden]]   | ``04:07`` |
+| ``2026-04-13`` | [[Sessions/bloodletting/(03) Caroline\|(03) Caroline]]                        | ``04:41`` |
 
 ---
 ## **01.** Bloodletting (The Vampire Song)
@@ -112,12 +113,19 @@ Carnival season opens in New Orleans: a Nosferatu musician risks everything to s
 
 ## **02.** The Sky is a Poisonous Garden
 ![cover_bloodletting02.jpg\|left hsmall](/img/user/Images/Covers/cover_bloodletting02.jpg)
-Andrew follows the Prince's orders into the French Quarter and finds reasons to doubt them, Wendy wakes hungry and unknowing in Reggie's home, Amélie is led blindfolded to Baron Cimitiere's hounfour and trades one secret for another, and Elvys reaches for a woman who no longer exists.
+Andrew is in the French Quarter on a job that doesn't add up, something has gone wrong in Reggie's home, a dangerous man in a wide leather hat is asking questions in the Tremé. and Elvys is looking for someone who might not exist anymore.
 
 <div style="clear:both"></div>
 
 ---
 
+## **03.** Caroline
+![cover_bloodletting03.jpg\|left hsmall](/img/user/Images/Covers/cover_bloodletting03.jpg)
+A night that should have been quiet turns bloody. Reggie races to contain a crisis he may have caused, Amélie finds herself caught between a dangerous stranger and a debt she can't afford, Elvys tries to get his head back in the game, and Andrew follows a wound that's been open for twenty years.
+
+<div style="clear:both"></div>
+
+---
 <div style="clear:both"></div>
 
 >[!center]
