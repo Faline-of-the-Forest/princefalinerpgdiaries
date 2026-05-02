@@ -10,7 +10,7 @@
 <br>
 
 >[!caption]
->**April 6th. 2026**
+>**April 13th. 2026**
 4 hours 41 minutes
 [♫ CAROLINE, Concrete Blonde ♫](https://youtu.be/zMTUupB4-2U?si=E2A5G_cGNChvG_j6)
 
@@ -106,6 +106,7 @@ Joey didn't reply, but the look of horror on his face admitted to everything.
 Knowing he would die without it, Andrew put himself back into Frenzy voluntarily, rousing the Beast and using it to push through the pain and make it out alive.
 
 Trying to incapacitate Joey, Andrew grabbed his arm and managed to rip it off as well, all while the other vampires mauled him. The tracker did as much damage as he could, but he knew that another minute here would mean his death, so he pushed Joey off and ran as fast as he could. Surprisingly, he managed to outpace the others on foot, and, feeling the Beast laying down within him, knew he needed a good rest.
+
 ## **Chapter 15: You Were Trapped Inside**
 Reggie was driving home when he glanced out his window and noticed it was wide open. Beneath it, a few steps to the side, Wendy was on all fours on the sidewalk, crawling in a pool of blood, taking hungry bites at what was clearly a fresh corpse. Reggie pulled up beside the scene and ran out. He pulled her by the shoulder, calling her name, but what looked back at him looked nothing like Wendy.
 
