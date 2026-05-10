@@ -101,8 +101,11 @@ She is currently housing her latest stray, a nineteen-year-old werewolf named Ca
 | ``2026-03-30`` | [[Sessions/bloodletting/(01) Bloodletting (The Vampire Song)\|(01) Bloodletting (The Vampire Song)]] | ``04:47`` |
 | ``2026-04-06`` | [[Sessions/bloodletting/(02) The Sky is a Poisonous Garden\|(02) The Sky is a Poisonous Garden]]   | ``04:07`` |
 | ``2026-04-13`` | [[Sessions/bloodletting/(03) Caroline\|(03) Caroline]]                        | ``04:41`` |
+| `2026-04-20`   | [[Sessions/bloodletting/(04) The Darkening of the Light\|(04) The Darkening of the Light]]      | `03:59`   |
+| `2026-04-27`   | [[Sessions/bloodletting/(05) I Don't Need a Hero\|(05) I Don't Need a Hero]]             | `04:00`   |
 
 ---
+
 ## **01.** Bloodletting (The Vampire Song)
 ![cover_bloodletting01.jpg\|left hsmall](/img/user/Images/Covers/cover_bloodletting01.jpg)
 Carnival season opens in New Orleans: a Nosferatu musician risks everything to see the woman he loved, a charitable Ventrue is offered a deal by the Lord of the French Quarter, Daeva vodouisant bargains over secrets buried in her grandmother's notes, and a soldier is given a quiet job by the Prince.
@@ -126,7 +129,22 @@ A night that should have been quiet turns bloody. Reggie races to contain a cris
 <div style="clear:both"></div>
 
 ---
+
+## **04.** The Darkening of the Light
+![cover_bloodletting04.jpg\|left hsmall](/img/user/Images/Covers/cover_bloodletting04.jpg)
+Savoy comes knocking at Reggie's door with questions and answers, Elvys plays his first set in two years, Andrew is handed an impossible job, and Amélie finds something ancient and strange beneath the bayou.
+
 <div style="clear:both"></div>
+
+---
+
+## **05.** I Don't Need a Hero
+![cover_bloodletting05.jpg\|left hsmall](/img/user/Images/Covers/cover_bloodletting05.jpg)
+Amélie leaves the bayou with more questions than she found answers, Reggie checks in with Doc Xola to save his childe, Elvys makes a deal with the Prince that had better pay off, and Andrew finally finds a lead in his hunt for the Prince's former Hound.
+
+<div style="clear:both"></div>
+
+---
 
 >[!center]
 > A [[Library/The Chronicles of Darkness Shelf#**The World of Darkness** (2004)\|Chronicles of Darkness]] Campaign
